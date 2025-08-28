@@ -1,0 +1,10 @@
+Based on this lab, why is using branches a powerful and safe way for a team of
+software engineers to collaborate on a single project? What problems might it
+prevent?
+
+Branches are a powerful and safe way for a team of software engineers to collaborate because it makes CI/CD easier.
+If many engineers are on the same branch they may have to constantly pull to keep up with changes made by others. On the other hand if they use
+different branches the developer can work with a concistent version of software and files creating less file conflicts.
+Branches can also be used to control certain environments like prod and dev, engineres can use branches and merge/ pull requests as a way to test software
+when the developer is ready for combining their code with the rest of the team. 
+and prepare for production deployment
